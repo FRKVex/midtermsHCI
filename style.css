@@ -1,0 +1,11 @@
+.html, body{
+    width: 300px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    margin: 50px auto;
+}
+
+.form{
+    text-align: center;
+}
