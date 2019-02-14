@@ -1,12 +1,20 @@
 .html, body{
     width: 300px;
-    border: 10px solid black;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px;
     margin: 50px auto;
 }
 
-.form{
-    text-align: middle;
-    line-height:1.5;
+
+
+.form-container
+{
+text-align: center;
+}
+.title{	
+	text-align: center;
+}
+.button{
+	text-align: center;
 }
